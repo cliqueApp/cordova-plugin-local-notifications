@@ -1,0 +1,5 @@
+configurations.compile {
+resolutionStrategy {
+force 'com.android.support:support-v4:23.4.0';
+}
+}
